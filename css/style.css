@@ -34,6 +34,10 @@ div{
     text-align: center;
 }
 
+.margin-bottom{
+    margin-bottom: 25px;
+}
+
 /*
 
 MAIN
@@ -43,15 +47,15 @@ MAIN
 .box{
     width:100%;
     padding:20px;
-    background-color: deepskyblue;
+    background-color: rgb(0, 98, 255);
     outline:2px solid white;
     color: white;
 }
 
 
 .nested-box{
-    padding:20px;
+    padding:10px;
     background-color: limegreen;
-    outline:2px solid white;
+    outline:2px solid rgb(0, 98, 255);
     color: white;
 }
